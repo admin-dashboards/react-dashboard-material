@@ -4,6 +4,14 @@
 
 <br />
 
+## 🎁 `PROMO` [Best Deals for Developers](https://www.admin-dashboards.com/best-deals-for-developers/) - Up to `80%OFF`
+
+Because 2022 is almost over and we all knew that was a super challenging year for all of us (freelancers, entrepreneurs, all-size companies) this article aims to highlight the **best deals for developers** that might help us to start amazing projects in 2023 at the lower cost possible.
+
+[![Best Deals For Programmers and Freelancers - Provided by AppSeed, CodedThemes, Creatuve-Tim, WrapPixel and BootstrapDash.](https://user-images.githubusercontent.com/51070104/209994947-ed4b33dd-f269-4043-8432-2c01a53e0f6b.jpg)](https://www.admin-dashboards.com/best-deals-for-developers/)
+
+<br />
+
 ![version](https://img.shields.io/badge/version-1.9.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-react.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-react.svg?maxAge=2592000)]() [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard?utm_source=share-link&utm_medium=link&utm_campaign=share-link) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Gif](src/assets/github/md-react.gif)
